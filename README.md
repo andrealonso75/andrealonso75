@@ -28,7 +28,7 @@ Currently, I work at Tera Ambiental, where I deploy complex tables and analyses,
 
 <h1 align="center">Study ⚡</h1>
 
-<h1 align="center">Currently, I am studying statistics from basic to advanced levels. All the study materials will be made available here on GitHub.</h1>
+<br> Currently, I am studying statistics from basic to advanced levels. All the study materials will be made available here on GitHub - https://github.com/andrealonso75/EBA.</h1>
 
 
 
